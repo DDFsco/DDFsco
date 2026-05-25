@@ -2,7 +2,7 @@
 
 I build real-time systems and AI pipelines for neuroscience research.
 
-Currently at University of Michigan → Carnegie Mellon (Computational Biology, SCS).
+Currently at University of Michigan Ann Arbor, Neuroscience Researcher.
 Two years embedded in neuroscience labs working on closed-loop neural systems,
 fMRI infrastructure, and ML for neural decoding.
 
