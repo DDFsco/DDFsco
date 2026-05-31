@@ -28,6 +28,7 @@ kinematic extraction across 100+ behavioral sessions.
 
 | Project | Focus | Tech / Results |
 |---|---|---|
+| [SLEAP Pipeline Manager](https://github.com/DDFsco/Great-Lakes) | Desktop workflow manager for SLEAP labeling, Great Lakes HPC training, inference, and review | Python, Tkinter, SSH/SFTP, Slurm, PyInstaller, interactive Duo auth, task history, configurable inference profiles |
 | [RythMice](https://github.com/DDFsco/RythMice) | Behavioral analysis toolkit for rodent locomotion rhythm studies | Python, MATLAB, LabJack-compatible traces, CLI + GUI, QC plots, session plans |
 | [FMRI-image-ML-classifier](https://github.com/DDFsco/FMRI-image-ML-classifier) | Visual stimulus decoder from fMRI cortical activation maps | PyTorch, ResNet-18, MobileNet, subject-level splits, 94% F1, 0.97 ROC-AUC |
 | [Resume-Builder](https://github.com/DDFsco/Resume-Builder) | Browser-based resume builder with PDF/DOCX export | Next.js, React, TypeScript, local-first storage, live site at [jobcraftkit.com](https://jobcraftkit.com) |
