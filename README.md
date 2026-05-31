@@ -52,4 +52,4 @@ kinematic extraction across 100+ behavioral sessions.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/shuhao-cao) · [GitHub](https://github.com/DDFsco) · echoc@andrew.cmu.edu
+[LinkedIn](https://linkedin.com/in/shuhao-cao) · [GitHub](https://github.com/DDFsco) · echocao909@gmail.com
