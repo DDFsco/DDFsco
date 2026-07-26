@@ -37,7 +37,7 @@ kinematic extraction across 100+ behavioral sessions.
 
 ## Stack
 
-`Python` `PyTorch` `MATLAB` `C# / Unity` `TypeScript` `React` `Next.js`  
+`Python` `Java` `C++` `PyTorch` `MATLAB` `C# / Unity` `TypeScript` `React` `Next.js`  
 `Docker` `GitHub Actions` `DVC` `AWS` `Linux`  
 `fMRI` `SPM` `CONN` `SLEAP` `Biopac` `LabJack`
 
